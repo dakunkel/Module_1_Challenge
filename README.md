@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Kickstarter was founded on April 28th, 2009 by Charles Adler, Perry Chen, and Yancey Strickler in New York City.  In simplest terms, Kickstarter is a crowdfunding platform.  Their vision was to help give creative artists and thinkers a platform to fund their projects by connecting them with community members interested in defining culture.  The company quickly put their money where their mouth was by reincorporating as a Public Benefit Corporation. This allows Kicksterer to seek the dual goal of boosting societal and shareholder gains. 
+Kickstarter was founded on April 28th, 2009, by Charles Adler, Perry Chen, and Yancey Strickler in New York City.  In simplest terms, Kickstarter is a crowdfunding platform.  Their vision was to help give creative artists and thinkers a platform to fund their projects by connecting them with community members interested in defining culture.  The company quickly put their money where their mouth was by reincorporating as a Public Benefit Corporation. This allows Kickstarter to seek the dual goal of boosting societal and shareholder gains. 
 
 The company has undergone seed funding and currently sits in Series D after raising approximately $10 million USD. [(Crunchbase)](https://www.crunchbase.com/organization/kickstarter) Kickstarter currently employs 264 team members and brings in an annual revenue of $61.1 million USD. [(Growjo)](https://growjo.com/company/Indiegogo) Since its inception, Kickstarter has funded over 240,000 projects with ~$7.4 billion USD in total funds raised. [(Kickstarter, Stats)](https://www.kickstarter.com/help/stats?ref=hello)
 
@@ -25,7 +25,7 @@ With most projects, when an investor funds the project, their money comes with d
 
 ### Kickstarter's Customer
 Kickstarter has to answer the question is it the chicken or the egg? By nature, Kickstarter has two consumers due to the fact it is a project marketplace:
-1. Creators and entrepreneurs are able to post their projects in hopes of securing funding.  To give itself a competitive advantage, Kickstarter must maintain low fees, 5% of project funding, compared to competitors in hopes of attracking exciting projects to the platform. 
+1. Creators and entrepreneurs are able to post their projects in hopes of securing funding.  To give itself a competitive advantage, Kickstarter must maintain low fees, 5% of project funding, compared to competitors in hopes of attracting exciting projects to the platform. 
 
 2. On the flip side, Kickstarter has to attract crowdfunders to seed projects and ensure the creators and entrepreneurs are able to secure funding.  In order to do this, Kickstarter has to continually invest in user-experience, payment processing ease, and machine learning to recommend exciting projects to potential crowdfunders.  
 
@@ -39,7 +39,7 @@ One key differentiator for Kickstarter is that the platform focuses mainly on cr
 
 Kickstarter employs many technologies to streamline workflow, including: jQuery, MySQL, NGINX, Zencoder, Rails, Amazon S3, Amazon RDS, Google Analytics, Stripe, Twilio SendGrid, Elasticsearch, Dyn, Embedly, Chartbeat, GitHub, StatusPage.io, Crashlytics, StatsD, Trello, G Suite, and many more. [(Stackshare)](https://stackshare.io/kickstarter/kickstarter)
 
-Kickstarter prides itself in utilizing many open-source software plug-ins and code to enhance its tech stack. Kickstarter invests in open source projects that can benefit its creators and backers.  For example, Kickstarter invested in Babel, which enables ECMAScript 2015+ code to be backwards compatible with JavaScript in all environments.  This allows for Kickstarter to be accissble all over the world by anyone who wants to either post a project or back a project. On top of that Kickstarter lists all of the open-source code it utilizes: Webpack, Advent of Code, Rails Girls Summer of Code, Code Nation, Code Cooperative, helping boost community involvement and accomplish its society improvement goal. [(Kickstarter, Open Source Blog)](https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89)  Playing into the community nature of the company, and to keep costs low, Kickstarter opened up its code and hosts conferences (Functional Swift Conference) every year to help bring developers together.  By doing this, Kickstarter is able to build and maintain iOS and Android apps easier with less resources. [(Kickstarter, Open Source Blog: Apps)](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd)  Additionally, in order to maintain scalable, lightweight, and low-cost server computing via AWS Lambda to maintain a serverless infrastructure.  When a problem arises, Slack webhook would assign issues to the appropriate channel.  [(Kickstarter, Functional Programming Blog)](https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i)  In order to maintain a lightweight environment, Kickstarter engineers utilize the Lambda configuration setup to break up code, test, and imrpove.  Example Kickstarter code that helps format incoming data to allow mapping to Slack environments:
+Kickstarter prides itself in utilizing many open-source software plug-ins and code to enhance its tech stack. Kickstarter invests in open-source projects that can benefit its creators and backers.  For example, Kickstarter invested in Babel, which enables ECMAScript 2015+ code to be backwards compatible with JavaScript in all environments.  This allows for Kickstarter to be accessible all over the world by anyone who wants to either post a project or back a project. On top of that Kickstarter lists all of the open-source code it utilizes: Webpack, Advent of Code, Rails Girls Summer of Code, Code Nation, Code Cooperative, helping boost community involvement and accomplish its society improvement goal. [(Kickstarter, Open-source Blog)](https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89)  Playing into the community nature of the company, and to keep costs low, Kickstarter opened up its code and hosts conferences (Functional Swift Conference) every year to help bring developers together.  By doing this, Kickstarter is able to build and maintain iOS and Android apps easier with less resources. [(Kickstarter, Open-source Blog: Apps)](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd)  Additionally, in order to maintain scalable, lightweight, and low-cost server computing via AWS Lambda to maintain a serverless infrastructure.  When a problem arises, Slack webhook would assign issues to the appropriate channel.  [(Kickstarter, Functional Programming Blog)](https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i)  In order to maintain a lightweight environment, Kickstarter engineers utilize the Lambda configuration setup to break up code, test, and improve.  Example Kickstarter code that helps format incoming data to allow mapping to Slack environments:
 
 ``` 
 module.exports = (event) => {
@@ -62,15 +62,15 @@ module.exports = (event) => {
 
 ## Landscape:
 
-Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021), helped put crowdfunding on the mainstage in the US letting retail and nonaccredited investors participate in opportunites .  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
+Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021) helped put crowdfunding on the mainstage in the US by letting retail and nonaccredited investors participate in opportunities.  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
 
 ![Peer to Peer Lending Market Size 2021 to 2023](https://github.com/dakunkel/Module_1_Challenge/blob/9b474e007c98823f08142dd98889f946bf8cfd6e/Images/Peer-to-Peer-(P2P)-Lending-Market-Size-2021-to-2030.jpg)
 
 [(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
-New regulation in China and the EU pose risk to both firms and investors, leaving individuals on the hook in the event crowdfunded activities are foudn to be associated with unlawful acts (Hong Kong Securities and Futures Ordinance and the Money Lenders Ordinance).  This type of regulation raises the question of who will regulate international investment and who will have jurisdiction on crowdfunded projects. [(The Diplomat)](https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/)
+New regulation in China and the EU pose risk to both firms and investors, leaving individuals on the hook in the event crowdfunded activities are found to be associated with unlawful acts (Hong Kong Securities and Futures Ordinance and the Money Lenders Ordinance).  This type of regulation raises the question of who will regulate international investment and who will have jurisdiction on crowdfunded projects. [(The Diplomat)](https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/)
 
-Kickstarter currently operates within Australia, Austria, Belgium, Canada, Denmark, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Singapore, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  There is room to continually expand internationally as the crowdfunding market grows.  At the same time, Kickstarter must be cognisant of potential regulation to protect itself and its consumers. 
+Kickstarter currently operates within Australia, Austria, Belgium, Canada, Denmark, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Singapore, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  There is room to continually expand internationally as the crowdfunding market grows.  At the same time, Kickstarter must be cognizant of potential regulation to protect itself and its consumers. 
 
 ![Crowdfunding Market Growth Rate](https://github.com/dakunkel/Module_1_Challenge/blob/30e59792d2f8a201aba098f953dd65f620822232/Images/1667893780186_crowdfunding-market_Crowdfunding_Market_-_Growth_Rate_by_Region.png)
 
@@ -93,21 +93,25 @@ Major companies in the crowdfunding domain to watch:
 
 ## Kickstarter's Results
 
-Kickstarer is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
+Kickstarter is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
 
-The core metrics that companies within the crowdfunding domain use to measure success are number of completed projects, project funding rate, and average funding per project.  Kickstarter leads this category with number of fully funded projects topping 240,000.  Compared to Kickstarter's two main U.S. competitors, GoFundMe and Indiegogo, Kickstarter may fall short in amount of funds raised per project but exceeds in success rate and beats crowdfunding marketplace averages (22.4% success rate and $28,656 average funds raised respectively). [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) Indiegogo leads the charge in top funding per project at $41,634 (compared to Kickstarters $30,625).  Kickstarter boats a 40.62% success rate for fully funding a project, making Kickstarter a leader in the space, partly due to strong technology, advertising support, and an expansive marketplace.  [(Statista)](https://www.statista.com/statistics/235405/kickstarter-project-funding-success-rate/) This performance is likely due to the fact that Kickstarter advocates for and utilizes and all-or-nothing strategy -- the project must reach its goal or funds are returned to potential backers.  GoFundMe generates in around $114 million USD in revenue per year compared to Indiegogo's $24.5 million USD and Kickstarter's $61.1 million USD. [(Growjo)](https://growjo.com/company/Indiegogo)
+The core metrics that companies within the crowdfunding domain use to measure success are number of completed projects, project funding rate, and average funding per project.  Kickstarter leads this category with number of fully funded projects topping 240,000.  Compared to Kickstarter's two main U.S. competitors, GoFundMe and Indiegogo, Kickstarter may fall short in amount of funds raised per project but exceeds in success rate and beats crowdfunding marketplace averages (22.4% success rate and $28,656 average funds raised respectively). [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) Indiegogo leads the charge in top funding per project at $41,634 (compared to Kickstarter's $30,625).  Kickstarter boats a 40.62% success rate for fully funding a project, making Kickstarter a leader in the space, partly due to strong technology, advertising support, and an expansive marketplace.  [(Statista)](https://www.statista.com/statistics/235405/kickstarter-project-funding-success-rate/) This performance is likely due to the fact that Kickstarter advocates for and utilizes and all-or-nothing strategy -- the project must reach its goal or funds are returned to potential backers.  GoFundMe generates in around $114 million USD in revenue per year compared to Indiegogo's $24.5 million USD and Kickstarter's $61.1 million USD. [(Growjo)](https://growjo.com/company/Indiegogo)
 
-## Recommendations
+### Kickstarter's Project Success Rate by Category
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+![Crowdfunding Marketplace](https://github.com/dakunkel/Module_1_Challenge/blob/eb6d46ba626e23f99b3102b3a4b3bdc93dfa27b7/Images/1_eW003rfPwZn0FuJJydKukg.webp)
 
-* Why do you think that offering this product or service would benefit the company?
+[(Medium)](https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac)
 
-* What technologies would this additional product or service utilize?
+## Recommendations for Kickstarter's Success
 
-* Why are these technologies appropriate for your solution?
+As a FinTech consultant, I would recommend Kickstarter continue to prioritize emerging markets in Europe to capitalize on integrating additional communities to the marketplace. In terms of technology, in an effort to reduce fees compared to competitors and enable global project funding, investment in blockchain solutions with cryptocurrency payment processing will push prepare Kickstarter for the digital payment revolution.  Kickstarter will need to form partnerships with FinTech companies like Coinbase to offer cryptocurrency payment processing.  This could enable cross-country project backing and faster and cheaper payment processing (removing the 3-5% credit card processing fees), accelerating global expansion. 
 
-blockchain to reduce 3-5% payment processing fees and allow for easier international funding of projects
+Kickstarter has already invested in and acquired video-streaming platform Huzza in 2017. [(VentureBeat)](https://venturebeat.com/business/kickstarter-acquires-video-streaming-community-platform-huzza-opens-first-office-outside-the-u-s/) Additional investment in mobile video creation, live-streaming, AI content creation can enhance project founders' ability to create, post, and update backers more easily.  Investing in content creation services that can be scaled via AI and live streaming will allow Kickstarter to differentiate against competitors and add value to project creators (reducing project creators costs).  The technologies required to implement advancements in this area would require AI & machine learning models, web-optimized video compressing and processing, and scalable website server solutions (currently employed via AWS).
+
+To assist in creating a functioning marketplace and positive user experience, investment in machine learning technologies will allow Kickstarter to recommend similar, unique, and exciting projects to perspective backers via historical data and trends.  Investment in machine learning, data processing, and data manipulation technologies will be crucial for success.  This will empower the Kickstarter backer to be move involved in developing the next step in culture and society via more frequent and higher-value investments.  
+
+In summary, Kickstarter should invest in blockchain/cryptocurrency payment processing, AI/live streaming content creation capabilities, and machine learning.  These solutions will empower global growth and enhance both the experience of the project creator and project backer.
 
 ---
 
@@ -116,7 +120,7 @@ Works Cited
 
 1. Kickstarter Website, About Page: https://www.kickstarter.com/about?ref=global-footer
 
-2. Kickstareter Website, Stats Page: https://www.kickstarter.com/help/stats?ref=hello
+2. Kickstarter Website, Stats Page: https://www.kickstarter.com/help/stats?ref=hello
 
 3. Crunchbase Company Profile: https://www.crunchbase.com/organization/kickstarter
 
@@ -128,9 +132,9 @@ Works Cited
 
 7. Gitnux Blog: https://blog.gitnux.com/companies/kickstarter/
 
-8. Kickstarter, Open Source Blog: https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89
+8. Kickstarter, Open-source Blog: https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89
 
-9. Kickstarter, Open Source Blog: Apps: https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd
+9. Kickstarter, Open-source Blog: Apps: https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd
 
 10. Kickstarter, Functional Programming Blog: https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i
 
@@ -152,48 +156,13 @@ Works Cited
 
 19. Emerging Europe: https://emerging-europe.com/business/its-time-for-europe-to-build-a-new-palo-alto/
 
-20. Mordor Intellignece: https://www.mordorintelligence.com/industry-reports/crowdfunding-market
+20. Mordor Intelligence: https://www.mordorintelligence.com/industry-reports/crowdfunding-market
 
 21. Statista: https://www.statista.com/statistics/235405/kickstarter-project-funding-success-rate/
 
+22. Medium: https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac
+
+23. VentureBeat: https://venturebeat.com/business/kickstarter-acquires-video-streaming-community-platform-huzza-opens-first-office-outside-the-u-s/
+
 ```
 ---
-
----
-### Requirements
-
-#### Company Information and Business Activities  (25 points)
-
-##### To receive all points, you must:
-
-* Select a company in the FinTech domain to research. (5 points)
-* Provide a detailed description of the company's domain, audience, solution and business metrics. (10 points)
-* Present company information in a clear and well-organized manner. (10 points)
-
-#### FinTech Domain Trends (20 points)
-
-##### To receive all points, your code must:
-
-* Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
-* Identify several major competitors. (10 points)
-
-#### Research Depth (15 points)
-
-##### To receive all points, your code must:
-
-* Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
-* Specifically quote sources and reference them clearly and accurately. (10 points)
-
-#### Recommendations (20 points)
-
-##### To receive all points, your code must:
-
-* Thoroughly explain company recommendations. (10 points)
-* Base company recommendations in solid research. (10 points)
-
-#### Report Presentation (20 points)
-
-##### To receive all points, your report must include:
-
-* Present the report in a ReadME.md file in a Github repository. (10 points)
-* The report style showcases the writer's expertise and builds credibility. (10 points)
