@@ -64,6 +64,9 @@ module.exports = (event) => {
 
 Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021), helped put crowdfunding on the mainstage in the US letting retail and nonaccredited investors participate in opportunites .  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
 
+![Peer to Peer Lending Market Size 2021 to 2023](https://github.com/dakunkel/Module_1_Challenge/blob/9b474e007c98823f08142dd98889f946bf8cfd6e/Images/Peer-to-Peer-(P2P)-Lending-Market-Size-2021-to-2030.jpg)
+[(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
+
 New regulation in China and the EU pose risk to both firms and investors, leaving individuals on the hook in the event crowdfunded activities are foudn to be associated with unlawful acts (Hong Kong Securities and Futures Ordinance and the Money Lenders Ordinance).  This type of regulation raises the question of who will regulate international investment and who will have jurisdiction on crowdfunded projects. [(The Diplomat)](https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/)
 
 Kickstarter currently operates within Australia, Austria, Belgium, Canada, Denmark, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Singapore, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  There is room to continually expand internationally as the crowdfunding market grows.  At the same time, Kickstarter must be cognisant of potential regulation to protect itself and its consumers. 
@@ -78,6 +81,9 @@ Major companies in the crowdfunding domain to watch:
 * Seek & Spark
 * SeedInvest
 * Crowdrise
+
+![Crowdfunding Marketplace](https://github.com/dakunkel/Module_1_Challenge/blob/9b474e007c98823f08142dd98889f946bf8cfd6e/Images/crowdfunding-market_1667906889460_Crowdfunding_Market_-_Market_Concentration.webp)
+[(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
 ## Results
 
