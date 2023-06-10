@@ -1,115 +1,87 @@
-# Unit 1 Homework Assignment: FinTech Case Study
-
-## Background
-
-As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
-
-One of the key methods used to conduct corporate analysis is the **case study**. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
-
-In this homework assignment, you will:
-
-* Select a Fintech domain that interests you, and then choose a company or project within that domain.
-
-* Research the domain and company.
-
-* Write a detailed case study of the company.
-
-* Upload your case study to your git repository.
-
-This assignment will challenge you to polish your FinTech research skills by accessing reports, publications, and online resources that FinTech professionals use to evaluate the industry. It will also help you situate the techniques and technologies you will be mastering in this course––e.g., machine learning, Python, modeling, blockchain––within the real world of global FinTech. Finally, it will give you practice presenting and speaking about FinTech strategy and technology.
-
----
-
-## Instructions
-
-### 1. Choose a FinTech domain that you find relevant or interesting.
-
-**Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
-
-* Payments/Billing
-
-* Capital Investment
-
-* Investment Management
-
-* Wealth Management
-
-* Enterprise Solutions
-
-* Insurance (InsurTech)
-
-* Mortgage/Real Estate
-
-* Personal Finance/Deposits/Online Banking
-
-* Lending
-
-* Blockchain and Cryptocurrencies
-
-* Regulation Technology (RegTech)
-
-* Open Banking
-
-* Robo-advising
-
-Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
-
-### 2. Choose a company (or project) within  your chosen Fintech domain.
-
-Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management.
-
-Your company could be:
-
-* A new, emerging FinTech company that is doing well in a particular domain. Examples include Square, Plaid, Lemonade, RobinHood, and Coinbase.
-
-* A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
-
-* A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
-
-### 3. Conduct your research, using the case study template as a guide.
-
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-
-**Note** If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
-**Case Study Template**
-
-```
-# TITLE
+# Kickstarter 
 
 ## Overview and Origin
 
-* Name of company
+Kickstarter was founded on April 28th, 2009 by Charles Adler, Perry Chen, and Yancey Strickler in New York City.  In simplest terms, Kickstarter is a crowdfunding platform.  Their vision was to help give creative artists and thinkers a platform to fund their projects by connecting them with community members interested in defining culture.  The company quickly put their money where their mouth was by reincorporating as a Public Benefit Corporation. This allows Kicksterer to seek the dual goal of boosting societal and shareholder gains. 
 
-* When was the company incorporated?
+The company has undergone seed funding and currently sits in Series D after raising approximately $10 million USD. [(Crunchbase)](https://www.crunchbase.com/organization/kickstarter) Kickstarter currently employs 264 team members and brings in an annual revenue of $61.1 million USD. [(Growjo)](https://growjo.com/company/Indiegogo) Since its inception, Kickstarter has funded over 240,000 projects with ~$7.4 billion USD in total funds raised. [(Kickstarter, Stats)](https://www.kickstarter.com/help/stats?ref=hello)
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
+---
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+### Kickstarter's Goals
+Kickstarter's goal is twofold:
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+1. Give creators, artists, musicians, thought leaders, and entrepreneurs the opportunity to fund their project in a safe and trusted platform
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+2. Give individuals interested in benefiting society and the arts the opportunity to invest in companies in early stages in exchange for future products, rewards, or good will -- but not equity
 
+With most projects, when an investor funds the project, their money comes with decision and input power.  Kickstarter is trying to build a community marketplace, or a network of family and friends, that support each other's business endeavors without active angel investors or venture capital. By doing so, Kickstarter is aiming to solve a painful problem most start-ups deal with, the active investor.  Kickstarter, by design, removes the active investor from projects, leaving all control in the creator's hands: 
+
+### _"Creators always control how the work comes together — no 100-page grant applications, no donors demanding you modify your message, no last-minute edits from investors..."_ 
+[(Kickstarter.com, About)](www.kickstarter.com/about?ref=global-footer)
+
+
+### Kickstarter's Customer
+Kickstarter has to answer the question is it the chicken or the egg? By nature, Kickstarter has two consumers due to the fact it is a project marketplace:
+1. Creators and entrepreneurs are able to post their projects in hopes of securing funding.  To give itself a competitive advantage, Kickstarter must maintain low fees, 5% of project funding, compared to competitors in hopes of attracking exciting projects to the platform. 
+
+2. On the flip side, Kickstarter has to attract crowdfunders to seed projects and ensure the creators and entrepreneurs are able to secure funding.  In order to do this, Kickstarter has to continually invest in user-experience, payment processing ease, and machine learning to recommend exciting projects to potential crowdfunders.  
+
+### Kickstarter's Market Opportunity and Competitive Edge
+
+There is a healthy market for crowdfunding, which is expected to surpass $26 billion USD by the year 2027 (IMARC Group, an alternative investment analysis company). The peer-to-peer lending market is continuing to grow 11.6% annually by 2028. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
+
+One key differentiator for Kickstarter is that the platform focuses mainly on crowdfunding via rewards, products, non-monetary gains, compared to other equity crowdfunding platforms.  Kickstarter faces fierce competition with a mix of competitors large and small: GoFundMe, Indiegogo, Crowdfunder, Fundrise, and CircleUp.  With large competition, Kickstarter outperforms with global reach, risk-reduction algorithms, and strong brand reputation leading to project generation.  Kickstarter gives its creators resources to easily list projects and transact through partnerships with Stripe, offering promotional tools through marketing integrations with social platforms, and physical goods support via shipping / fulfillment. [(Gitnux Blog)](https://blog.gitnux.com/companies/kickstarter/) By focusing on creativity and innovation, Kickstarter wins in the crowdfunding space. Even though larger companies like GoFundMe bring in ~$114 million USD annually, Kickstarter is growing annually. [(Growjo)](https://growjo.com/company/Indiegogo)
+
+### Kickstarter's Technology
+
+Kickstarter employs many technologies to streamline workflow, including: jQuery, MySQL, NGINX, Zencoder, Rails, Amazon S3, Amazon RDS, Google Analytics, Stripe, Twilio SendGrid, Elasticsearch, Dyn, Embedly, Chartbeat, GitHub, StatusPage.io, Crashlytics, StatsD, Trello, G Suite, and many more. [(Stackshare)](https://stackshare.io/kickstarter/kickstarter)
+
+Kickstarter prides itself in utilizing many open-source software plug-ins and code to enhance its tech stack. Kickstarter invests in open source projects that can benefit its creators and backers.  For example, Kickstarter invested in Babel, which enables ECMAScript 2015+ code to be backwards compatible with JavaScript in all environments.  This allows for Kickstarter to be accissble all over the world by anyone who wants to either post a project or back a project. On top of that Kickstarter lists all of the open-source code it utilizes: Webpack, Advent of Code, Rails Girls Summer of Code, Code Nation, Code Cooperative, helping boost community involvement and accomplish its society improvement goal. [(Kickstarter, Open Source Blog)](https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89)  Playing into the community nature of the company, and to keep costs low, Kickstarter opened up its code and hosts conferences (Functional Swift Conference) every year to help bring developers together.  By doing this, Kickstarter is able to build and maintain iOS and Android apps easier with less resources. [(Kickstarter, Open Source Blog: Apps)](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd)  Additionally, in order to maintain scalable, lightweight, and low-cost server computing via AWS Lambda to maintain a serverless infrastructure.  When a problem arises, Slack webhook would assign issues to the appropriate channel.  [(Kickstarter, Functional Programming Blog)](https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i)  In order to maintain a lightweight environment, Kickstarter engineers utilize the Lambda configuration setup to break up code, test, and imrpove.  Example Kickstarter code that helps format incoming data to allow mapping to Slack environments:
+
+``` 
+module.exports = (event) => {
+  return [event]
+  .filter(slowLogMessageFilter)
+  .flatMap(mapEventToWebHooks)
+  .map( (event) => {
+    return { 
+      hostname : 'hooks.slack.com',
+      path : event.webhook,
+      method : ‘POST’,
+      body : subjectParsers[event.subject](event)
+    };
+  });
+};
+```
+[(Kickstarter, Functional Programming Blog)](https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i)
+
+---
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021), helped put crowdfunding on the mainstage in the US letting retail and nonaccredited investors participate in opportunites .  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+New regulation in China and the EU pose risk to both firms and investors, leaving individuals on the hook in the event crowdfunded activities are foudn to be associated with unlawful acts (Hong Kong Securities and Futures Ordinance and the Money Lenders Ordinance).  This type of regulation raises the question of who will regulate international investment and who will have jurisdiction on crowdfunded projects. [(The Diplomat)](https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/)
 
-* What are the other major companies in this domain?
+Kickstarter currently operates within Australia, Austria, Belgium, Canada, Denmark, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Singapore, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  There is room to continually expand internationally as the crowdfunding market grows.  At the same time, Kickstarter must be cognisant of potential regulation to protect itself and its consumers. 
 
+Major companies in the crowdfunding domain to watch:
+
+* GoFundMe
+* Indiegogo
+* Patreon
+* WeFunder
+* Classy.org
+* Seek & Spark
+* SeedInvest
+* Crowdrise
 
 ## Results
+
+Kickstarer is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
 
 * What has been the business impact of this company so far?
 
@@ -127,88 +99,56 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-```
 
-### 4. Write the case study.
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-
-
-### 5. Upload your case study to your git repository.
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+blockchain to reduce 3-5% payment processing fees and allow for easier international funding of projects
 
 ---
 
-## Resources
+```
+Works Cited
 
-### FinTech Companies and Domains
+1. Kickstarter Website, About Page: https://www.kickstarter.com/about?ref=global-footer
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
+2. Kickstareter Website, Stats Page: https://www.kickstarter.com/help/stats?ref=hello
 
-* [The 11 Biggest FinTech Companies in America 2021](https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13)
+3. Crunchbase Company Profile: https://www.crunchbase.com/organization/kickstarter
 
-* [The Most Innovative FinTech Companies in 2021, Forbes](https://www.forbes.com/fintech/2021/#12338a0831a6)
+4. Growjo: https://growjo.com/company/Indiegogo
 
-* [World FinTech Report, Capgemini](https://fintechworldreport.com/)
+5. Emerging Europe: https://emerging-europe.com/business/its-time-for-europe-to-build-a-new-palo-alto/
 
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
+6. IMARC Group: https://www.imarcgroup.com/crowdfunding-market
 
-* [Hottest FinTech Startups, Business Insider](https://www.businessinsider.com/top-fintech-startup-companies)
+7. Gitnux Blog: https://blog.gitnux.com/companies/kickstarter/
 
-* [Top 10 FinTech Companies to Watch, TheStreet](https://www.thestreet.com/technology/fintech-companies-14891479)
+8. Kickstarter, Open Source Blog: https://kickstarter.engineering/supporting-open-source-our-donations-for-2018-d69a6114bf89
 
-* [33 FinTech Companies and Startups to Keep in Your Back Pocket, Built In](https://builtin.com/fintech/fintech-companies-startups-to-know)
+9. Kickstarter, Open Source Blog: Apps: https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd
 
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
+10. Kickstarter, Functional Programming Blog: https://kickstarter.engineering/leveraging-functional-programming-aws-lambda-to-drive-chatops-4b269558d3fb#.s56cys71i
 
-### Research Material
+11. Stackshare: https://stackshare.io/kickstarter/kickstarter
 
-As you research your company, you may find these types resources to be useful:
+12. Fundera: https://www.fundera.com/resources/crowdfunding-statistics
 
-* The company’s website
+13. The Crowd Data Center: https://www.thecrowdfundingcenter.com/data/projects
 
-* The company’s blog
+14. Forbes: https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41
 
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
+15. Oregon Business: https://oregonbusiness.com/19709-tool-kit-regulation-crowdfunding/
 
-* Websites of competitors
+16. The Diplomat: https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/
 
-* FinTech blogs and/or podcasts
+17. Growjo, Kickstarter: https://growjo.com/company/kickstarter
 
-* Interviews with the company’s founders, CTOs, or project leads
+18. WikiSME: https://www.wikisme.com/kickstarter-business-model-and-swot-analysis/
 
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
+19. Emerging Europe: https://emerging-europe.com/business/its-time-for-europe-to-build-a-new-palo-alto/
 
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
+20. Mordor Intellignece: https://www.mordorintelligence.com/industry-reports/crowdfunding-market
 
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stackshare](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-### Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
+```
+---
 
 ---
 ### Requirements
@@ -248,7 +188,3 @@ As you research your company, you may find these types resources to be useful:
 
 * Present the report in a ReadME.md file in a Github repository. (10 points)
 * The report style showcases the writer's expertise and builds credibility. (10 points)
-
-- - -
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
