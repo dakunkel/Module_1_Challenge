@@ -1,6 +1,6 @@
-# Kickstarter 
+# **Kickstarter** 
 
-## Overview and Origin
+## **Kickstarter's Overview and Origin**
 
 Kickstarter was founded on April 28th, 2009, by Charles Adler, Perry Chen, and Yancey Strickler in New York City.  In simplest terms, Kickstarter is a crowdfunding platform.  Their vision was to help give creative artists and thinkers a platform to fund their projects by connecting them with community members interested in defining culture.  The company quickly put their money where their mouth was by reincorporating as a Public Benefit Corporation. This allows Kickstarter to seek the dual goal of boosting societal and shareholder gains. 
 
@@ -8,7 +8,7 @@ The company has undergone seed funding and currently sits in Series D after rais
 
 ---
 
-## Business Activities:
+## **Kickstarter's Business Activities:**
 
 ### Kickstarter's Goals
 Kickstarter's goal is twofold:
@@ -19,9 +19,9 @@ Kickstarter's goal is twofold:
 
 With most projects, when an investor funds the project, their money comes with decision and input power.  Kickstarter is trying to build a community marketplace, or a network of family and friends, that support each other's business endeavors without active angel investors or venture capital. By doing so, Kickstarter is aiming to solve a painful problem most start-ups deal with, the active investor.  Kickstarter, by design, removes the active investor from projects, leaving all control in the creator's hands: 
 
-### _"Creators always control how the work comes together — no 100-page grant applications, no donors demanding you modify your message, no last-minute edits from investors..."_ 
-[(Kickstarter.com, About)](www.kickstarter.com/about?ref=global-footer)
-
+>### _"Creators always control how the work comes together — no 100-page grant applications, no donors demanding you modify your message, no last-minute edits from investors..."_ 
+>
+>[(Kickstarter.com, About)](www.kickstarter.com/about?ref=global-footer)
 
 ### Kickstarter's Customer
 Kickstarter has to answer the question is it the chicken or the egg? By nature, Kickstarter has two consumers due to the fact it is a project marketplace:
@@ -60,7 +60,7 @@ module.exports = (event) => {
 
 ---
 
-## Landscape:
+## **The Crowdfunding Landscape:**
 
 Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021) helped put crowdfunding on the mainstage in the US by letting retail and nonaccredited investors participate in opportunities.  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
 
@@ -91,7 +91,7 @@ Major companies in the crowdfunding domain to watch:
 
 [(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
-## Kickstarter's Results
+## **Kickstarter's Results**
 
 Kickstarter is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
 
@@ -103,7 +103,7 @@ The core metrics that companies within the crowdfunding domain use to measure su
 
 [(Medium)](https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac)
 
-## Recommendations for Kickstarter's Success
+## **Recommendations for Kickstarter's Continued Success**
 
 As a FinTech consultant, I would recommend Kickstarter continue to prioritize emerging markets in Europe to capitalize on integrating additional communities to the marketplace. In terms of technology, in an effort to reduce fees compared to competitors and enable global project funding, investment in blockchain solutions with cryptocurrency payment processing will push prepare Kickstarter for the digital payment revolution.  Kickstarter will need to form partnerships with FinTech companies like Coinbase to offer cryptocurrency payment processing.  This could enable cross-country project backing and faster and cheaper payment processing (removing the 3-5% credit card processing fees), accelerating global expansion. 
 
@@ -116,7 +116,7 @@ In summary, Kickstarter should invest in blockchain/cryptocurrency payment proce
 ---
 
 ```
-Works Cited
+Sources
 
 1. Kickstarter Website, About Page: https://www.kickstarter.com/about?ref=global-footer
 
