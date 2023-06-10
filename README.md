@@ -65,11 +65,16 @@ module.exports = (event) => {
 Kickstarter sits within the alternative investing domain within FinTech, specifically in the crowdfunding category.  The peer-to-peer crowdfunding market is currently valued at ~$15 billion USD as of 2022.  The overall crowdfunding market is expected to top $300 billion by 2030. [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) With strong tailwinds, the growth of this sector will continue through 2028.  Celebrity and social media influencer endorsements and helping drive the expansive reach and popularity of crowdfunded projects.  COVID-19 aided in the popularity of crowdfunding as well to help those in need and fund new projects when normal paths for capital were not available.  Title III of the JOBS Act (2021), helped put crowdfunding on the mainstage in the US letting retail and nonaccredited investors participate in opportunites .  [(Forbes)](https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/the-meteoric-rise-of-equity-crowdfunding/?sh=684adf224d41) Global expansion and regulation has been one of the major trends of the past 5-10 years, assisting connect communities and international investment opportunity. [(IMARC Group)](https://www.imarcgroup.com/crowdfunding-market)  
 
 ![Peer to Peer Lending Market Size 2021 to 2023](https://github.com/dakunkel/Module_1_Challenge/blob/9b474e007c98823f08142dd98889f946bf8cfd6e/Images/Peer-to-Peer-(P2P)-Lending-Market-Size-2021-to-2030.jpg)
+
 [(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
 New regulation in China and the EU pose risk to both firms and investors, leaving individuals on the hook in the event crowdfunded activities are foudn to be associated with unlawful acts (Hong Kong Securities and Futures Ordinance and the Money Lenders Ordinance).  This type of regulation raises the question of who will regulate international investment and who will have jurisdiction on crowdfunded projects. [(The Diplomat)](https://thediplomat.com/2023/01/hong-kongs-crowdfunding-regulations-could-have-global-ramifications/)
 
 Kickstarter currently operates within Australia, Austria, Belgium, Canada, Denmark, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Singapore, Slovenia, Spain, Sweden, Switzerland, the United Kingdom, and the United States.  There is room to continually expand internationally as the crowdfunding market grows.  At the same time, Kickstarter must be cognisant of potential regulation to protect itself and its consumers. 
+
+![Crowdfunding Market Growth Rate](https://github.com/dakunkel/Module_1_Challenge/blob/30e59792d2f8a201aba098f953dd65f620822232/Images/1667893780186_crowdfunding-market_Crowdfunding_Market_-_Growth_Rate_by_Region.png)
+
+[(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
 Major companies in the crowdfunding domain to watch:
 
@@ -83,18 +88,14 @@ Major companies in the crowdfunding domain to watch:
 * Crowdrise
 
 ![Crowdfunding Marketplace](https://github.com/dakunkel/Module_1_Challenge/blob/9b474e007c98823f08142dd98889f946bf8cfd6e/Images/crowdfunding-market_1667906889460_Crowdfunding_Market_-_Market_Concentration.webp)
+
 [(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
-## Results
+## Kickstarter's Results
 
 Kickstarer is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+The core metrics that companies within the crowdfunding domain use to measure success are number of completed projects, project funding rate, and average funding per project.  Kickstarter leads this category with number of fully funded projects topping 240,000.  Compared to Kickstarter's two main U.S. competitors, GoFundMe and Indiegogo, Kickstarter may fall short in amount of funds raised per project but exceeds in success rate and beats crowdfunding marketplace averages (22.4% success rate and $28,656 average funds raised respectively). [(Fundera)](https://www.fundera.com/resources/crowdfunding-statistics) Indiegogo leads the charge in top funding per project at $41,634 (compared to Kickstarters $30,625).  Kickstarter boats a 40.62% success rate for fully funding a project, making Kickstarter a leader in the space, partly due to strong technology, advertising support, and an expansive marketplace.  [(Statista)](https://www.statista.com/statistics/235405/kickstarter-project-funding-success-rate/) This performance is likely due to the fact that Kickstarter advocates for and utilizes and all-or-nothing strategy -- the project must reach its goal or funds are returned to potential backers.  GoFundMe generates in around $114 million USD in revenue per year compared to Indiegogo's $24.5 million USD and Kickstarter's $61.1 million USD. [(Growjo)](https://growjo.com/company/Indiegogo)
 
 ## Recommendations
 
@@ -152,6 +153,8 @@ Works Cited
 19. Emerging Europe: https://emerging-europe.com/business/its-time-for-europe-to-build-a-new-palo-alto/
 
 20. Mordor Intellignece: https://www.mordorintelligence.com/industry-reports/crowdfunding-market
+
+21. Statista: https://www.statista.com/statistics/235405/kickstarter-project-funding-success-rate/
 
 ```
 ---
