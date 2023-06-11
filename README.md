@@ -91,6 +91,8 @@ Major companies in the crowdfunding domain to watch:
 
 [(Mordor Intellignece)](https://www.mordorintelligence.com/industry-reports/crowdfunding-market)
 
+---
+
 ## **Kickstarter's Results**
 
 Kickstarter is widely considered one of the most successful crowdfunding platforms available.  With over 320,000 projects completed, it ranks #1 out of all platforms. [(The Crowd Data Center, Fundera)](https://www.thecrowdfundingcenter.com/data/projects)  Kickstarter has funded over $7.3 billion USD worth of projects enabling the advancement of culture, arts, start-ups, and society.  Kickstarter has solidified itself as a place to discover and get involved in the next stage of culture in society.  The impact of Kickstarter accomplishes the dual goals with cultural advancement and $61.1 million USD in annual revenue.  
@@ -102,6 +104,8 @@ The core metrics that companies within the crowdfunding domain use to measure su
 ![Crowdfunding Marketplace](https://github.com/dakunkel/Module_1_Challenge/blob/eb6d46ba626e23f99b3102b3a4b3bdc93dfa27b7/Images/1_eW003rfPwZn0FuJJydKukg.webp)
 
 [(Medium)](https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac)
+
+---
 
 ## **Recommendations for Kickstarter's Continued Success**
 
