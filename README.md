@@ -167,6 +167,5 @@ Sources
 22. Medium: https://medium.com/@daniel.kupka/we-analyzed-331-000-kickstarter-projects-here-s-what-we-learned-about-crowdfunding-success-63b341b025ac
 
 23. VentureBeat: https://venturebeat.com/business/kickstarter-acquires-video-streaming-community-platform-huzza-opens-first-office-outside-the-u-s/
-
 ```
 ---
